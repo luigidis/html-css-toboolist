@@ -14,10 +14,14 @@
     background-color: white;
 }
 
-#name-logo {
-    display: inline;
+.logo {
+    display: inline-block;
     vertical-align: middle;
-    font-style: bold;
+}
+
+#name-logo {
+    font-weight: bold;
+    font-size: 150%;
 }
 
 /* Css del main */
