@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.debug * {
+    border: 1px solid red
+}
+
+/* Css dell'header */
+
+#main-header {
+    background-color: white;
+}
+
+/* Css del main */
+
+.grey {
+    background-color: #E5E7E6;
+    
+}
+
+.container {
+    margin: 0;
+    max-width: 500px;
+    background-color: white;
+    padding: 18px;
+}
+
+#head-section {
+    border-bottom: 1px solid blue;
+}
+
+.rectangle {
+    border: solid 1px;
+    border-radius: 1px;
+
+}
+
+.list-rectangle {
+    border: solid 1px;
+    border-radius: 3px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    line-height: 1.5;
+    text-indent: -30px;
+    padding: 8px 0 8px 30px;
+  }
