@@ -24,12 +24,15 @@
 
 .b-grey {
     background-color: #E5E7E6;
+    padding: 15px;
+}
 
+.b-grey > section {
+    margin: 0 auto;
+    max-width: 500px;
 }
 
 .container {
-    margin: 0;
-    max-width: 500px;
     background-color: white;
     padding: 18px;
 }
